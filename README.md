@@ -39,5 +39,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 #test
 #test for Michelle
 #npm test
-#conflicting
-#devbranch
+
